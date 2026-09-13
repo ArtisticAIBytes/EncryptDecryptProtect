@@ -2,6 +2,9 @@
 
 **ENCRYPT • DECRYPT • PROTECT • VERIFY**
 
+**Official website:** [EncryptDecryptProtect.com](https://EncryptDecryptProtect.com)  
+**Developer:** [ArtisticAIBytes.com](https://ArtisticAIBytes.com)
+
 EncryptDecryptProtect v1.2026.911 by **Artistic AI Bytes** is an all-in-one encryption, decryption, hashing, checksum, integrity-verification, compression, reporting, automation, benchmarking and data-protection application for Windows 64-bit.
 
 Encrypt and decrypt files, folders and text using **AES-256-GCM, XChaCha20-Poly1305, ChaCha20-Poly1305 and AES-256-GCM-SIV**, with Zstandard, Brotli, Gzip and Deflate compression. EncryptDecryptProtect supports hash and checksum creation and verification, Folder Hash Reports and comparison, Original vs. Decrypted integrity verification, reusable post-decryption hash reports, Batch Tasks, APP History, and encryption/compression benchmarking across 14 profiles.
@@ -12,9 +15,11 @@ The current release is distributed as a **single self-contained Windows 64-bit `
 
 ## Download
 
-**Windows 64-bit:** `EncryptDecryptProtect-Windows-x64.exe`
+**Windows 64-bit:** [EncryptDecryptProtect-Windows-x64.exe](https://github.com/ArtisticAIBytes/EncryptDecryptProtect/releases/download/v1.2026.911/EncryptDecryptProtect-Windows-x64.exe)
 
-Current public download mirror:
+**GitHub Release:** [EncryptDecryptProtect v1.2026.911](https://github.com/ArtisticAIBytes/EncryptDecryptProtect/releases/tag/v1.2026.911)
+
+**ModDB mirror:**  
 https://www.moddb.com/company/artistic-ai-bytes/downloads/encryptdecryptprotect-windows-x64
 
 The executable is distributed as a compiled binary. **Source code is not included in this public repository.**
@@ -148,12 +153,17 @@ Seven layers of 256-bit authenticated encryption: a **1792-bit multi-layer archi
 
 ---
 
+## Official Websites
+
+**EncryptDecryptProtect:** [EncryptDecryptProtect.com](https://EncryptDecryptProtect.com)  
+**Artistic AI Bytes:** [ArtisticAIBytes.com](https://ArtisticAIBytes.com)
+
 ## ENCRYPT. DECRYPT. PROTECT. VERIFY.
 
 **Protect the original. Verify it. Encrypt it. Decrypt it. Verify it again. Keep the evidence. Compare it later.**
 
 **EncryptDecryptProtect v1.2026.911**  
 **First Public Release — September 11, 2026**  
-**Developed by Artistic AI Bytes (Lead Developer: UHDk1ng(AIk1ng) + ChatGPT(GPT-5.6 Sol))**
+**Developed by [Artistic AI Bytes](https://ArtisticAIBytes.com) (Lead Developer: UHDk1ng(AIk1ng) + ChatGPT(GPT-5.6 Sol))**
 
 **Windows first. More platforms next. EncryptDecryptProtect has only begun. 😼🚀**
