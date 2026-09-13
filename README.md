@@ -2,7 +2,7 @@
 
 **ENCRYPT • DECRYPT • PROTECT • VERIFY**
 
-**Official website:** [EncryptDecryptProtect.com](https://EncryptDecryptProtect.com)  
+**Official home:** [EncryptDecryptProtect.com](https://EncryptDecryptProtect.com)  
 **Developer:** [ArtisticAIBytes.com](https://ArtisticAIBytes.com)
 
 EncryptDecryptProtect v1.2026.911 by **Artistic AI Bytes** is an all-in-one encryption, decryption, hashing, checksum, integrity-verification, compression, reporting, automation, benchmarking and data-protection application for Windows 64-bit.
@@ -153,10 +153,10 @@ Seven layers of 256-bit authenticated encryption: a **1792-bit multi-layer archi
 
 ---
 
-## Official Websites
+## Official Home
 
-**EncryptDecryptProtect:** [EncryptDecryptProtect.com](https://EncryptDecryptProtect.com)  
-**Artistic AI Bytes:** [ArtisticAIBytes.com](https://ArtisticAIBytes.com)
+**EncryptDecryptProtect:** [EncryptDecryptProtect.com](https://EncryptDecryptProtect.com) — the official home of EncryptDecryptProtect.  
+**Developer:** [ArtisticAIBytes.com](https://ArtisticAIBytes.com) — Artistic AI Bytes.
 
 ## ENCRYPT. DECRYPT. PROTECT. VERIFY.
 
